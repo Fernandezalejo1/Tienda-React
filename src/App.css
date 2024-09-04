@@ -1,0 +1,68 @@
+body h1,
+body h2,
+body h3,
+body h4,
+body h5 {
+  font-family: "Roboto", sans-serif;
+  font-weight: 700;
+}
+
+/* Paleta de colores: https://coolors.co/001f53-ffffc4-cbe0aa-68a177-00ce00 */
+.c-azul {
+  color: #001f53;
+}
+
+.c-azul-2 {
+  color: #00348F;
+}
+
+.c-crema {
+  color: #ffffc4;
+}
+
+.c-teverde {
+  color: #cbe0aa;
+}
+
+.c-menta {
+  color: #68a177;
+}
+
+.c-verde {
+  color: #00ce00;
+}
+
+.c-gris {
+  color: #E2E8F0;
+}
+
+.c-fondo-wasap {
+  color: #25d366;
+}
+
+.navbar-brand {
+  width: 50%;
+  min-width: 100px;
+}
+.navbar-brand img {
+  width: 20%;
+  max-width: 150px;
+  min-width: 100px;
+}  
+
+/* _buttons.scss */
+.btn {
+  color: white;
+  background-color: #00348F;
+  border-color: #00348F;
+}
+.btn:hover {
+  color: white;
+  background-color: #001f53;
+  border-color: #001f53;
+}
+.btn:active {
+  color: white;
+  background-color: #001f53;
+  border-color: #001f53;
+}
